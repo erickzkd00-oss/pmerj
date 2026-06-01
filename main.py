@@ -1479,7 +1479,7 @@ async def painelregistro(ctx):
     embed = discord.Embed(
         title="REGISTRO POLICIAL PMERJ",
         description=(
-            "Esta área é destinada aos aprovados pela Diretoria de Educação e Cultura no Curso de Formação de Soldados.\n\n"
+            "Esta área é destinada aos aprovados após a realização da entrevista juntamente a equipe de instrução.\n\n"
             "O registro policial tem como objetivo oficializar a entrada do aprovado no quadro da Polícia Militar, padronizando sua identificação, seus cargos e sua situação administrativa dentro da corporação."
         ),
         color=0x000000
